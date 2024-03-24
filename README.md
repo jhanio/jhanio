@@ -9,7 +9,7 @@
 <p align="left">
 🎓 SYSTEMS ENGINEER
 
-🎥 I am a software developer with extensive experience in web application development. 
+🎥 I am a software developer with experience in web application development. 
 
 💻  I have a strong ability to solve problems, analyze code, and work in a team. 
 
