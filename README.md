@@ -9,11 +9,13 @@
 <p align="left">
 🎓 SYSTEMS ENGINEER
 
-🎥 I am a software developer with experience in web application development. 
+🎥 I am a backend developer with experience in web application development. 
 
 💻  I have a strong ability to solve problems, analyze code, and work in a team. 
 
-📝 Areas of expertise: Web applications
+📝  I have knowledge in web application development, networks, and cybersecurity.
+
+I am open to new opportunities and willing to learn and grow in a challenging professional environment.
 
 📫 Contacto: **Jhaniohernandez@gmail.com**
 <!--Intro end-->
