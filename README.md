@@ -27,7 +27,7 @@ You can find me on:
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?=,java,spring,py,django,css,html,js,nodejs,mysql,react,git,github,docker,postman,eclipse,vscode,bash,linux&perline=12" />
+    <img src="https://skillicons.dev/icons?i=,java,spring,py,django,css,html,js,nodejs,mysql,react,git,github,docker,postman,eclipse,vscode,bash,linux&perline=12" />
   </a>
 </p>
 <br>
