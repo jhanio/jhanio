@@ -7,13 +7,11 @@
 <!--Intro start-->
 
 <p align="left">
-🎓 SYSTEMS ENGINEER
+Hey! I'm a software developer from Lima, Peru. 🇵🇪
 
-🎥 I am a backend developer with experience in web application development. 
+I completed a degree in Computer Science and Informatics and I'm currently finishing a degree in Systems Engineering. 💻
 
-💻  I have a strong ability to solve problems, analyze code, and work in a team. 
-
-📝  I have knowledge in web application development, networks, and cybersecurity.
+I have skills in programming languages such as Java, JavaScript, and Python, as well as frameworks like React, Django, and FastAPI. 🛠️
 
 I am open to new opportunities and willing to learn and grow in a challenging professional environment.
 
