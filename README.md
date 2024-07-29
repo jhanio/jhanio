@@ -11,7 +11,9 @@ I have skills in programming languages such as Java, JavaScript, and Python, as 
 
 I am open to new opportunities and willing to learn and grow in a challenging professional environment.
 
-📫 Contacto: **Jhaniohernandez@gmail.com**
+You can find me on:
+<a href="Jhaniohernandez@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+**Jhaniohernandez@gmail.com**
 <a href="https://github.com/jhanio" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
 
 <!--Intro end-->
