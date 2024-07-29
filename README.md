@@ -1,9 +1,5 @@
-<h1 align="center">Hello 👋  I'm Jhanio / Systems engineer ✨ </h1> 
+<h1 align="center">Hello world👋  I'm Jhanio ✨ </h1> 
 
-<a href="https://github.com/jhanio" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
-
-<br>
-<h2>About me 😃</h2>
 <!--Intro start-->
 
 <p align="left">
@@ -16,6 +12,8 @@ I have skills in programming languages such as Java, JavaScript, and Python, as 
 I am open to new opportunities and willing to learn and grow in a challenging professional environment.
 
 📫 Contacto: **Jhaniohernandez@gmail.com**
+<a href="https://github.com/jhanio" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
+
 <!--Intro end-->
   </p>
 <br>
