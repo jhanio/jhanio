@@ -12,10 +12,12 @@ I have skills in programming languages such as Java, JavaScript, and Python, as 
 I am open to new opportunities and willing to learn and grow in a challenging professional environment.
 
 You can find me on:
+<br>
 <a href="[Jhaniohernandez@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 **Jhaniohernandez@gmail.com**
 <br>
 <a href="[https://github.com/jhani](https://www.linkedin.com/in/jhaniohernandez/)o" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
+**www.linkedin.com/in/jhaniohernandez/**
 
 <!--Intro end-->
   </p>
