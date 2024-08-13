@@ -3,13 +3,15 @@
 <!--Intro start-->
 
 <p align="left">
-Hey! I'm a software developer from Lima, Peru. 🇵🇪
+Hey! I’m Jhanio, a passionate Java Developer from Lima, Peru.
 
-I completed a degree in Computer Science and Informatics and I'm currently finishing a degree in Systems Engineering. 💻
+I hold a degree in Computer Science and Informatics and am currently finishing a degree in Systems Engineering. 💻
 
-I have skills in programming languages such as Java, JavaScript, and Python, as well as frameworks like React, Django, and FastAPI. 🛠️
+I specialize in backend development using Java, Spring Boot, and Maven. My expertise includes microservices architecture, secure RESTful APIs, and data management with SQL Server and JPA. 🛠️
 
-I am open to new opportunities and willing to learn and grow in a challenging professional environment.
+I also have certifications in SAP ERP, DevOps (Microsoft), cloud security (Oracle), and agile methodologies. 📜
+
+I’m excited to tackle new challenges and contribute to technological advancements. I’m looking for opportunities to apply my skills, learn, and grow in a dynamic professional environment. 🚀
 
 You can find me on:
 <br>
