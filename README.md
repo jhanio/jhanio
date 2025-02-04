@@ -3,16 +3,15 @@
 <!--Intro start-->
 
 <p align="left">
-Hey! I’m Jhanio, a passionate Java Developer from Lima, Peru.
+Hey! I’m Jhanio, a passionate Full Stack Java Developer from Lima, Peru.
 
-I hold a degree in Computer Science and Informatics and am currently finishing a degree in Systems Engineering. 💻
+I hold a degree in Computer Science and Informatics and am currently finishing my degree in Systems Engineering. 💻
 
-I specialize in backend development using Java, Spring Boot, and Maven. My expertise includes microservices architecture, secure RESTful APIs, and data management with SQL Server and JPA. 🛠️
+I specialize in Full Stack Development, with extensive experience in both backend (Java, Spring Boot, Maven) and frontend (Angular). I am skilled in building scalable microservices architectures, developing secure RESTful APIs, and managing databases with SQL Server, JPA, and Hibernate. 🛠️
 
-I also have certifications in SAP ERP, DevOps (Microsoft), cloud security (Oracle), and agile methodologies. 📜
+Additionally, I am proficient in deploying applications using Docker, Kubernetes, and cloud platforms like AWS and Oracle Cloud. I also hold certifications in SAP ERP, DevOps (Microsoft), Cloud Security (Oracle), and Agile Methodologies. 📜
 
-I’m excited to tackle new challenges and contribute to technological advancements. I’m looking for opportunities to apply my skills, learn, and grow in a dynamic professional environment. 🚀
-
+I am driven by the opportunity to solve complex problems, deliver high-quality software, and continuously improve my skills. I’m eager to contribute to innovative projects and grow within a dynamic, forward-thinking team. 🚀
 You can find me on:
 <br>
 <a href="[Jhaniohernandez@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=new)" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
