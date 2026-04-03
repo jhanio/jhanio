@@ -23,15 +23,15 @@
 
 ## 🧠 Professional Profile
 
-IT Support Analyst with **2+ years of experience in enterprise environments** (Atos / McDonald's USA), delivering first-level technical support via **Microsoft Teams, email, and ticketing systems**.
+IT Support Analyst with progressive experience in technical support, including **recent enterprise-level operations (Atos / McDonald's USA)** delivering first-level support via Microsoft Teams, email, and ticketing systems.
 
-Specialized in:
+Recently focused on:
 - Incident resolution in high-volume environments  
 - User access and credential management  
 - SLA-driven operations (95%+)  
 - Cross-team escalation and coordination  
 
-Strong communication in **English and Spanish**, supporting international users across distributed environments.
+Strong communication in English and Spanish, supporting international users across distributed environments.
 
 ---
 
