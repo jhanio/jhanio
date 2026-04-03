@@ -1,123 +1,207 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=1D9E75&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Jhanio+Hernandez;Full+Stack+%26+Cloud+Security+Engineer;AI-Integrated+Systems+Builder;Claude+%7C+Gemini+%7C+Python+%7C+AWS;From+Peru+%F0%9F%87%B5%F0%9F%87%AA+to+the+World" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FF0000&center=true&vCenter=true&width=750&lines=Something+is+watching+your+network...;Every+packet+tells+a+story.;I+read+them+all.;Jhanio+Hernandez+%7C+SOC+Analyst+%26+Security+Engineer" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jhaniohernandez/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:Jhaniohernandez@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=jhanio&style=for-the-badge&color=1D9E75&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=jhanio&style=for-the-badge&color=red&label=PROFILE+VIEWS"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SOC%20Analyst-N1-red?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Oracle%20Cloud-Security-orange?style=flat-square&logo=oracle"/>
+  <img src="https://img.shields.io/badge/CompTIA-Security%2B%20In%20Progress-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/English-Professional-green?style=flat-square"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
-
-**Systems Engineer & Cloud Security Engineer** based in Lima, Peru 🇵🇪 — with a background spanning Full Stack development, cloud infrastructure, and business strategy.
-
-I build **secure, scalable backend systems** using Java, Python, and cloud-native tools. My work combines technical depth with real-world impact: from production automation systems for healthcare clinics to predictive ML models for public health in rural Peru.
-
-I integrate **AI tools (Claude, Gemini)** into real production systems — from intelligent bots to automated workflows — at the intersection of software engineering and applied AI.
-
-Currently oriented toward **remote and international roles** in Cloud Security, DevSecOps, and AI-integrated backend systems.
+<p align="center">
+  <b>⚠️ You've just accessed a monitored profile. Every visit is logged. ⚠️</b>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 🕵️ Who is behind this terminal?
 
-### Backend & APIs
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![RESTful APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat&logo=api&logoColor=white)
+There are engineers who build systems.  
+And there are engineers who **secure** them.
 
-### Cloud & DevSecOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat&logo=oracle&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat&logo=terraform&logoColor=white)
+I've done both.
 
-### Data & Databases
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![JPA/Hibernate](https://img.shields.io/badge/JPA_Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
+2+ years on the front line — triaging incidents, enforcing access controls, escalating threats  
+for **Atos / McDonald's USA** — in English, under SLA, at enterprise scale.
 
-### Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+Now I'm going deeper into the threat layer:  
+**SOC operations · Log analysis · Incident response · Cloud security.**
+
+> *"I've seen what happens when a system fails at 2AM.*  
+> *I want to be the one who catches it at 1:59."*
+
+---
+
+## 🛡️ Security Stack
+
+```
+[ SIEM & Monitoring ]   Splunk · Elastic Stack · Microsoft Sentinel
+[ Incident Response ]   Triage · Escalation matrix · Post-incident review · ITSM
+[ Network Security ]    TCP/IP · OSI Model · Firewalls · IDS/IPS · DNS
+[ Cloud Security ]      Oracle Cloud ✅ · AWS IAM · Access Control · Secrets Mgmt
+[ Endpoint ]            EDR concepts · Windows/Linux hardening · Credential mgmt
+[ Scripting ]           Python · PowerShell · Bash · FastAPI
+[ Frameworks ]          NIST · ISO 27001 concepts · ITSM/SLA · OWASP basics
+[ AI + Security ]       LLM integration · Automated threat workflows · Prompt engineering
+```
 
 ---
 
 ## 🏆 Certifications
 
-| Certification | Issuer |
+| Status | Certification | Issuer |
+|--------|--------------|--------|
+| ✅ Active | Oracle Cloud Infrastructure Security | Oracle |
+| ✅ Active | DevOps Foundations | Microsoft |
+| ✅ Active | SAP ERP | SAP |
+| ✅ Active | Agile Methodologies | — |
+| 🔄 In progress | **CompTIA Security+** | CompTIA |
+
+---
+
+## 💼 Operational Experience
+
+### 🔴 Helpdesk Analyst N1 — Teleperformance Perú
+**Project: Atos × McDonald's USA · Feb 2024 – Mar 2026**
+
+> Atos is a Top 10 global IT company with a dedicated Cybersecurity division.  
+> I operated inside their enterprise support chain — English-only, zero margin for error.
+
+- Incident triage, diagnosis and resolution for US corporate users across hundreds of locations
+- Full ticket lifecycle management following strict ITSM protocols (open → escalate → close)
+- Escalation to N2/N3 following security escalation matrix with full documentation
+- Access resets and credential management under corporate security policies
+- SLA compliance in 24/7 high-volume international operation
+- Knowledge base documentation for recurring security incidents
+
+**Translated to SOC language:**
+
+| Helpdesk function | SOC equivalent |
 |---|---|
-| ☁️ Cloud Security | Oracle |
-| ⚙️ DevOps Foundations | Microsoft |
-| 🏢 SAP ERP | SAP |
-| 🔄 Agile Methodologies | — |
+| Incident triage | Alert triage and classification |
+| Escalation matrix | SOC escalation to Tier 2/3 |
+| Credential management | IAM and access control enforcement |
+| SLA compliance | MTTR and incident response KPIs |
+| KB documentation | Playbook and runbook creation |
+
+*The environment was helpdesk. The discipline is SOC.*
 
 ---
 
-## 🚀 Featured Projects
+## 🚨 Security-Focused Projects
 
-### 🤖 [GYNFEM — Clinic Automation System](https://github.com/jhanio)
-> WhatsApp bot + appointment scheduling + clinical records for a gynecological clinic in Pisco, Peru.
-> Stack: **Python · FastAPI · Google Calendar API · Gemini AI · Google Apps Script**
+### 🤖 GYNFEM — AI-Powered Clinic Automation *(Production)*
+> Real patients. Real data. Real security requirements. Deployed and running.
 
-### 🧬 ML High-Risk Pregnancy Predictor *(in progress)*
-> Predictive system for early detection of high-risk pregnancies in rural Peru.
-> Stack: **Python · Scikit-learn · Pandas · Matplotlib**
+WhatsApp bot + AI scheduling + electronic clinical records for a gynecological clinic in Peru.
 
-### ⚓ Portify — Port Logistics Platform *(in progress)*
-> Digital platform for port appointment management and cargo traceability, designed for LATAM scale.
-> Stack: **Java · Spring Boot · PostgreSQL · Docker**
+`Python · FastAPI · Google Calendar API · Gemini AI · Google Apps Script · WSL2`
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jhanio&show_icons=true&theme=tokyonight&hide_border=true&title_color=1D9E75&icon_color=1D9E75&bg_color=0d1117" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhanio&layout=compact&theme=tokyonight&hide_border=true&title_color=1D9E75&bg_color=0d1117" height="165" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jhanio&theme=tokyonight&hide_border=true&ring=1D9E75&fire=1D9E75&currStreakLabel=1D9E75" />
-</p>
+**Security design decisions:**
+- Role-based access: receptionist / doctor / admin — separate permissions per module
+- Patient data isolation — each record scoped to authenticated session
+- Automated audit trail for all appointment modifications
+- No PII exposed in API responses — stripped before bot output
+- Webhook validation for incoming WhatsApp events
 
 ---
 
-## 🤖 AI-Powered Engineering
+### 💬 INTRIGA — Attention Monetization Platform *(Architecture phase)*
+> *"Your attention has value. Charge for it."*
 
-I actively work with AI tools as part of my engineering workflow — not just as a user, but integrating them into real production systems.
+Mobile + web platform enabling creators, artists and professionals to monetize  
+direct interactions — pay-per-message, video calls, GPS radar, virtual gifts.
 
-| Tool | How I use it |
-|---|---|
-| **Claude (Anthropic)** | Architecture design, code review, automated agents, API integration |
-| **Gemini API** | NLP pipelines, WhatsApp bot intelligence (GYNFEM project) |
-| **GitHub Copilot** | AI-assisted development, code acceleration |
-| **Prompt Engineering** | Designing production-grade prompts for automated workflows |
-| **LLM Integration** | Building apps that consume Claude / Gemini APIs via Python & FastAPI |
+`React Native · Expo · Next.js · FastAPI · PostgreSQL · Redis · Stripe · Culqi · AWS`
 
-> Building AI-integrated systems is part of how I work — not a future skill, but my current practice.
+**Security architecture highlights:**
+- GPS coordinates obfuscated with ±200m noise — exact location never exposed to any user
+- 5-tier identity verification system (Artist / Influencer / Entrepreneur / Verified / Basic)
+- Per-field privacy controls — granular visibility per audience segment
+- Payment fraud detection layer integrated with Stripe + Culqi (Peru)
+- Block system: blocked users disappear from GPS radar and all search results
+- Invisible mode: user active but undetectable on radar
+- Rate limiting on all contact endpoints to prevent spam and abuse
+
+*Status: PRD + TDD + Architecture complete · Development starting Q2 2026*
 
 ---
 
-## 🌍 What I'm Building Toward
+### ⚓ PORTIFY — Port Logistics Platform *(In development)*
+Digital platform for port appointment management and cargo traceability — LATAM scale.
+
+`Java · Spring Boot · PostgreSQL · Docker · Kubernetes`
+
+**Security layer:** Role-based access for terminal operators, truckers and customs agents.  
+Audit logs on all cargo state changes. JWT authentication with refresh token rotation.
+
+---
+
+### 🧬 ML HIGH-RISK PREGNANCY PREDICTOR *(In development)*
+Predictive system for early detection of high-risk pregnancies in rural Peru.
+
+`Python · Scikit-learn · Pandas · Matplotlib`
+
+**Data security:** De-identified training dataset · No PII in model pipeline.
+
+---
+
+## 🤖 AI as a Security Tool
+
+I don't just use AI — I integrate it into real production systems with security in mind.
+
+| Tool | How I apply it |
+|------|----------------|
+| Claude (Anthropic) | Architecture review, threat modeling, automated security agents |
+| Gemini API | NLP pipelines with input validation and output sanitization |
+| Prompt Engineering | Designing tamper-resistant prompts for production bots |
+| FastAPI + LLMs | Building secure API wrappers around AI models |
+
+---
+
+## 📡 Current config
+
+```bash
+$ cat /etc/target_roles.conf
+
+TARGET_ROLE    = "SOC Analyst N1"
+FALLBACK       = "Junior Cybersecurity Analyst"
+COMPANY        = "Stefanini · IMPERIA · Protiviti Peru"
+LOCATION       = "Lima, Peru | Remote LATAM"
+ENGLISH_LEVEL  = "Professional (2yr enterprise ops)"
+STATUS         = "Ready to deploy — awaiting Security+"
 ```
-Systems Engineering (UPC)          ✅ 2026
-International Business (ADEX)      ✅ Nearly complete
-Cloud Security Engineer            🎯 Target role — remote / international
-LATAM tech platform (Portify)      🔨 In development
+
+---
+
+## 🌍 Profile
+
+```
+Systems Engineering — UPC Peru          ✅ Graduating July 2026
+International Business — ADEX           ✅ Nearly complete
+Helpdesk N1 — Atos / McDonald's USA     ✅ 2 years · English · Enterprise scale
+Oracle Cloud Security                   ✅ Certified
+CompTIA Security+                       🔄 In progress
+Cloud Security Engineer                 🎯 12-month target
 ```
 
 ---
 
 <p align="center">
-  <i>"Engineering systems that solve real problems — from Peru to the world."</i><br><br>
-  <b>Open to remote opportunities in Cloud Security · DevSecOps · Backend Engineering</b>
+  <i>"The quietest systems are not always the safest ones."</i>
+  <br/><br/>
+  <b>Open to: SOC Analyst N1 · Security Operations · Cloud Security · DevSecOps</b>
 </p>
