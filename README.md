@@ -178,11 +178,10 @@ I don't just use AI — I integrate it into real production systems with securit
 $ cat /etc/target_roles.conf
 
 TARGET_ROLE    = "SOC Analyst N1"
-FALLBACK       = "Junior Cybersecurity Analyst"
-COMPANY        = "Stefanini · IMPERIA · Protiviti Peru"
 LOCATION       = "Lima, Peru | Remote LATAM"
-ENGLISH_LEVEL  = "Professional (2yr enterprise ops)"
-STATUS         = "Ready to deploy — awaiting Security+"
+ENGLISH_LEVEL  = "Professional — 2yr enterprise ops (Atos/McD USA)"
+CLEARANCE      = "Available immediately"
+STATUS         = "Operational"
 ```
 
 ---
