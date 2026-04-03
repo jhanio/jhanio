@@ -5,9 +5,6 @@
 </p>
 
 <p align="center">
-  <a href="mailto:jhaniohernandez@gmail.com?subject=Job Opportunity - IT Support / Cybersecurity">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
   <a href="https://www.linkedin.com/in/jhaniohernandez/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Message%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
