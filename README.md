@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/jhaniohernandez/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:Jhaniohernandez@gmail.com">
+  <a href="mailto:jhaniohernandez@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=jhanio&style=for-the-badge&color=red&label=PROFILE+VIEWS"/>
@@ -200,5 +200,4 @@ TO:    Cloud Security Engineer 🎯
 <p align="center">
   <i>"The quietest systems are not always the safest ones."</i>
   <br/><br/>
-  <b>Open to: SOC Analyst N1 · Security Operations · Cloud Security · DevSecOps</b>
-</p>
+  <b>Open to: SOC Analyst N1 · Security Ope
