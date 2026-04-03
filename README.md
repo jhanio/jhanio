@@ -1,25 +1,22 @@
 <h1 align="center">IT Support Analyst | Help Desk N1 | Cybersecurity Path</h1>
 
 <p align="center">
-  <b>Enterprise IT Support · Incident Management · Security-Oriented Mindset · Global Availability</b>
+  <b>🚀 Actively open to IT Support / Help Desk / Cybersecurity opportunities worldwide</b>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jhaniohernandez/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
   <a href="mailto:jhaniohernandez@gmail.com?subject=Job Opportunity - IT Support / Cybersecurity">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
+  <a href="https://www.linkedin.com/in/jhaniohernandez/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Message%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HelpDesk-N1-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/IT%20Support-Enterprise-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/SLA-95%25-green?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Security-Focused-orange?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Availability-Global-brightgreen?style=flat-square"/>
+  📧 <b>jhaniohernandez@gmail.com</b><br>
+  💼 Open to: IT Support · Help Desk · Cybersecurity Roles<br>
+  🌍 Available: Remote Worldwide · LATAM · Relocation
 </p>
 
 ---
@@ -31,7 +28,7 @@ IT Support Analyst with **2+ years of experience in enterprise environments** (A
 Specialized in:
 - Incident resolution in high-volume environments  
 - User access and credential management  
-- SLA-driven operations  
+- SLA-driven operations (95%+)  
 - Cross-team escalation and coordination  
 
 Strong communication in **English and Spanish**, supporting international users across distributed environments.
@@ -52,7 +49,7 @@ Strong communication in **English and Spanish**, supporting international users 
 
 ### 👤 User & Access Management
 - Password resets and account recovery  
-- Access permissions and identity support  
+- Access permissions and identity management  
 - User onboarding and account lifecycle  
 
 ### 🎫 Incident Management
@@ -61,9 +58,9 @@ Strong communication in **English and Spanish**, supporting international users 
 - Detailed documentation of issues and resolutions  
 
 ### 🔄 Escalation & Collaboration
-- Escalation to Tier 2/3 and external vendors  
+- Escalation to Tier 2/3 and vendors  
 - Cross-team collaboration for issue resolution  
-- Structured and clear escalation documentation  
+- Structured escalation documentation  
 
 ### 🎓 End-User Support
 - User guidance and basic technical training  
