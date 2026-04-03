@@ -179,22 +179,20 @@ $ cat /etc/target_roles.conf
 
 TARGET_ROLE    = "SOC Analyst N1"
 LOCATION       = "Lima, Peru | Remote LATAM"
-ENGLISH_LEVEL  = "Professional — 2yr enterprise ops (Atos/McD USA)"
+ENGLISH_LEVEL  = "Professional — 2yr enterprise ops (Atos / McD USA)"
 CLEARANCE      = "Available immediately"
 STATUS         = "Operational"
 ```
 
 ---
 
-## 🌍 Profile
+## 🌍 The arc
 
 ```
-Systems Engineering — UPC Peru          ✅ Graduating July 2026
-International Business — ADEX           ✅ Nearly complete
-Helpdesk N1 — Atos / McDonald's USA     ✅ 2 years · English · Enterprise scale
-Oracle Cloud Security                   ✅ Certified
-CompTIA Security+                       🔄 In progress
-Cloud Security Engineer                 🎯 12-month target
+FROM:  Helpdesk N1 · Atos / McDonald's USA · 2yr · EN
+NOW:   Systems Engineering UPC · Técnico Cibertec · Oracle Cloud Security ✅
+NEXT:  CompTIA Security+ 🔄
+TO:    Cloud Security Engineer 🎯
 ```
 
 ---
