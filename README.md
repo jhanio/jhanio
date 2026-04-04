@@ -22,10 +22,13 @@
 - 95%+ SLA compliance  
 - Support for 300+ locations (U.S.)  
 - Experience with POS systems (business-critical operations)
-- 
+
+## 🎯 Value Proposition
+IT Support Analyst with enterprise experience resolving high-impact incidents and transitioning into security-focused roles with hands-on cloud and IAM knowledge.
+
 ## 🧠 Professional Profile
 
-IT Support Analyst with hands-on experience delivering Level 1 support in enterprise environments, supporting operations for Atos on behalf of McDonald's USA via Teleperformance.
+IT Support Analyst with hands-on experience delivering Level 1 support in enterprise environments (Atos / McDonald's USA) via Teleperformance.
 
 Experienced in high-volume, SLA-driven environments, providing technical support through Microsoft Teams, email, and ITSM platforms.
 
@@ -49,44 +52,21 @@ Bilingual (English/Spanish), delivering support to international users with stro
 - Cross-team Escalation (L2/L3, infrastructure, applications)  
 - End-user Support in distributed enterprise environments  
 
-### 🖥️ Systems & Maintenance
-- Software installation and updates  
-- Patch validation and system configuration  
-- Application support in enterprise environments  
-
-### 👤 User & Access Management
-- Password resets and account recovery  
-- Access permissions and identity management  
-- User onboarding and account lifecycle  
-
-### 🎫 Incident Management
-- Full ticket lifecycle (open → track → resolve → close)  
-- SLA compliance (95%+)  
-- Detailed documentation of issues and resolutions  
-
-### 🔄 Escalation & Collaboration
-- Escalation to Tier 2/3 and vendors  
-- Cross-team collaboration for issue resolution  
-- Structured escalation documentation  
-
-### 🎓 End-User Support
-- User guidance and basic technical training  
-- Best practices for common issues  
-- Customer-focused support approach  
-
 ---
 
 ## 🧩 Tools & Technologies
 
 <p>
-  <img src="https://img.shields.io/badge/Active%20Directory-IAM-blue"/>
-  <img src="https://img.shields.io/badge/ServiceNow-ITSM-green"/>
-  <img src="https://img.shields.io/badge/Windows-OS-0078D6?logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft-Teams-6264A7?logo=microsoftteams&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ITSM-Ticketing-orange"/>
-  <img src="https://img.shields.io/badge/Networking-TCP/IP-blue"/>
-  <img src="https://img.shields.io/badge/DNS-Troubleshooting-blue"/>
-  <img src="https://img.shields.io/badge/Active%20Directory-Basic-lightgrey"/>
+<img src="https://img.shields.io/badge/Active%20Directory-IAM-blue"/>
+<img src="https://img.shields.io/badge/ServiceNow-ITSM-green"/>
+<img src="https://img.shields.io/badge/Windows-OS-0078D6?logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft-Teams-6264A7?logo=microsoftteams&logoColor=white"/>
+<img src="https://img.shields.io/badge/Networking-TCP/IP-blue"/>
+<img src="https://img.shields.io/badge/DNS-Troubleshooting-blue"/>
+<img src="https://img.shields.io/badge/Incident%20Management-SLA-red"/>
+<img src="https://img.shields.io/badge/Remote%20Support-Enterprise-lightgrey"/>
+  <img src="https://img.shields.io/badge/AWS-IAM-orange"/>
+<img src="https://img.shields.io/badge/Python-Automation-yellow"/>
 </p>
 
 ---
@@ -96,26 +76,27 @@ Bilingual (English/Spanish), delivering support to international users with stro
 ### 🔵 Helpdesk Analyst N1 — Teleperformance Perú  
 **Project: Atos × McDonald's USA | Feb 2024 – Mar 2026**
 
-- Managed 80+ tickets/day in a high-demand enterprise environment, maintaining 95%+ SLA compliance  
-- Provided L1 support for POS systems and critical operations impacting real-time store functionality  
-- Supported users across 300+ locations in the U.S., ensuring operational continuity  
-- Performed user account management and access control tasks aligned with security practices  
-- Escalated incidents efficiently to Tier 2/3 with structured diagnostics and documentation  
+- Managed 80+ tickets/day in a high-demand enterprise environment, maintaining 95%+ SLA compliance 
+- Provided L1 support for POS systems and critical operations impacting real-time store functionality
+- Supported users across 300+ locations in the U.S., ensuring operational continuity
+- Managed user accounts and access control tasks aligned with enterprise security policies
+- Escalated incidents efficiently to Tier 2/3 with structured diagnostics and documentation
+- Demonstrated ability to prioritize and resolve incidents impacting critical business operations under pressure
 
 ---
 
 ## 🛡️ Security-Oriented Mindset
 
-- Experience handling access control and credential-related incidents  
+- Experience handling access control and credential-related incidents in enterprise environments  
 - Exposure to security incident triage and escalation workflows  
-- Basic knowledge of cybersecurity frameworks (NIST, OWASP)  
-- Interest in threat detection, SIEM, and log analysis  
+- Foundational knowledge of cybersecurity frameworks (NIST, OWASP)  
+- Growing interest in SIEM, log analysis, and threat detection
 
 ---
 
 ## ☁️ Cloud & Cybersecurity Growth
 
-🔐 Building a transition path from IT Support to Cloud Security through hands-on projects and automation. 
+🔐 Transitioning from IT Support to Cloud Security through hands-on projects and automation.
 
 Currently developing skills in:
 
@@ -134,9 +115,11 @@ Currently developing skills in:
 
 ---
 
-## 📡 Career Direction
+## 📡 Career Path
 
-```bash
-CURRENT_ROLE   = "Help Desk Analyst N1"
-NEXT_ROLE      = "SOC Analyst"
-LONG_TERM      = "Cloud Security Engineer"
+- Current: IT Support Analyst (L1)  
+- Next Step: SOC Analyst  
+- Long-Term Goal: Cloud Security Engineer  
+
+## 🚀 Current Focus
+Designing and building Cloud Security projects focused on IAM, incident response, and log analysis to transition into a SOC Analyst role.
