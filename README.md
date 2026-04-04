@@ -1,43 +1,53 @@
-<h1 align="center">IT Support Analyst | Help Desk N1 | Cybersecurity Path</h1>
+<h1 align="center">IT Support Analyst (L1) | Enterprise Support | Cybersecurity Path</h1>
 
 <p align="center">
-  <b>🚀 Actively open to IT Support / Help Desk / Cybersecurity opportunities worldwide</b>
+  <b>🚀 IT Support Analyst with experience supporting enterprise operations (Atos / McDonald's USA) | Open to global opportunities</b>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jhaniohernandez/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Message%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
   📧 <b>jhaniohernandez@gmail.com</b><br>
-  💼 Open to: IT Support · Help Desk · Cybersecurity Roles<br>
-  🌍 Available: Remote Worldwide · LATAM · Relocation
+  💼 Focus: IT Support · Help Desk · Cybersecurity (IAM · Incident Response)<br>
+  🌍 Availability: Remote Worldwide · LATAM · Open to Relocation
 </p>
 
 ---
-
+## ⚡ Key Highlights
+- 80+ tickets/day handled in enterprise environment  
+- 95%+ SLA compliance  
+- Support for 300+ locations (U.S.)  
+- Experience with POS systems (business-critical operations)
+- 
 ## 🧠 Professional Profile
 
-IT Support Analyst with progressive experience in technical support, including **recent enterprise-level operations (Atos / McDonald's USA)** delivering first-level support via Microsoft Teams, email, and ticketing systems.
+IT Support Analyst with hands-on experience delivering Level 1 support in enterprise environments, supporting operations for Atos on behalf of McDonald's USA via Teleperformance.
 
-Recently focused on:
-- Incident resolution in high-volume environments  
-- User access and credential management  
-- SLA-driven operations (95%+)  
-- Cross-team escalation and coordination  
+Experienced in high-volume, SLA-driven environments, providing technical support through Microsoft Teams, email, and ITSM platforms.
 
-Strong communication in English and Spanish, supporting international users across distributed environments.
+🔹 Key Strengths:
+- High-volume incident resolution (POS systems, user access, enterprise apps)
+- Identity & Access Management (account provisioning, permissions, credential resets)
+- SLA compliance (95%+) and full ticket lifecycle management
+- Cross-team escalation (L2/L3, infrastructure and applications)
+- Remote troubleshooting across distributed enterprise environments
+
+Bilingual (English/Spanish), delivering support to international users with strong communication and problem-solving skills.
 
 ---
 
 ## ⚙️ Core Capabilities
 
-### 🔧 Technical Support
-- Troubleshooting hardware, software, and connectivity issues  
-- Support for desktops, laptops, printers, and mobile devices  
-- Remote assistance and real-time user support  
+- Incident Management (ITSM, SLA-driven environments)  
+- Identity & Access Management (Active Directory, account lifecycle)  
+- Remote Troubleshooting (hardware, software, network issues)  
+- POS Systems Support (business-critical operations)  
+- Cross-team Escalation (L2/L3, infrastructure, applications)  
+- End-user Support in distributed enterprise environments  
 
 ### 🖥️ Systems & Maintenance
 - Software installation and updates  
@@ -69,6 +79,8 @@ Strong communication in English and Spanish, supporting international users acro
 ## 🧩 Tools & Technologies
 
 <p>
+  <img src="https://img.shields.io/badge/Active%20Directory-IAM-blue"/>
+  <img src="https://img.shields.io/badge/ServiceNow-ITSM-green"/>
   <img src="https://img.shields.io/badge/Windows-OS-0078D6?logo=windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft-Teams-6264A7?logo=microsoftteams&logoColor=white"/>
   <img src="https://img.shields.io/badge/ITSM-Ticketing-orange"/>
@@ -84,26 +96,26 @@ Strong communication in English and Spanish, supporting international users acro
 ### 🔵 Helpdesk Analyst N1 — Teleperformance Perú  
 **Project: Atos × McDonald's USA | Feb 2024 – Mar 2026**
 
-- Managed **80+ tickets/day** with **95%+ SLA compliance**  
-- Supported enterprise users across **300+ locations (USA)**  
-- Delivered support via Teams, email, and ticketing systems  
-- Resolved hardware, software, and connectivity issues  
-- Managed user accounts and access requests  
-- Escalated complex incidents to Tier 2/3 teams  
-- Documented incidents and solutions in ITSM systems  
+- Managed 80+ tickets/day in a high-demand enterprise environment, maintaining 95%+ SLA compliance  
+- Provided L1 support for POS systems and critical operations impacting real-time store functionality  
+- Supported users across 300+ locations in the U.S., ensuring operational continuity  
+- Performed user account management and access control tasks aligned with security practices  
+- Escalated incidents efficiently to Tier 2/3 with structured diagnostics and documentation  
 
 ---
 
 ## 🛡️ Security-Oriented Mindset
 
-- Understanding of access control and credential security  
-- Exposure to incident triage and escalation workflows  
-- Knowledge of cybersecurity fundamentals (NIST, OWASP)  
-- Interest in threat detection and log analysis  
+- Experience handling access control and credential-related incidents  
+- Exposure to security incident triage and escalation workflows  
+- Basic knowledge of cybersecurity frameworks (NIST, OWASP)  
+- Interest in threat detection, SIEM, and log analysis  
 
 ---
 
 ## ☁️ Cloud & Cybersecurity Growth
+
+🔐 Building a transition path from IT Support to Cloud Security through hands-on projects and automation. 
 
 Currently developing skills in:
 
