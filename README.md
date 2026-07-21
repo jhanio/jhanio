@@ -1,133 +1,115 @@
-# Jhanio Hernández
+<h1 align="center">Jhanio Hernández</h1>
 
-### AI Solutions Developer | Systems Engineer
+<p align="center">
+  <b>AI Solutions Developer · Systems Engineer</b><br>
+  I ship AI-powered software that solves real operational problems — from requirements to production.
+</p>
 
-I build software that solves real operational problems by combining software engineering with AI-assisted development. My background is in enterprise IT support, and I now focus on designing AI-powered applications, business process automation, and intelligent systems, while building toward cloud security engineering.
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-Remote%20Roles-2ea44f?style=flat-square" alt="Open to remote"/>
+  <img src="https://img.shields.io/badge/LATAM%20·%20USA%20·%20Australia-0a66c2?style=flat-square" alt="Regions"/>
+</p>
 
-📍 Open to remote roles · LATAM / USA / Australia  
-📧 jhaniohernandez@gmail.com · [LinkedIn](https://www.linkedin.com/in/jhaniohernandez/)
-
----
-
-## What I do
-
-I design and deliver production-oriented software—from requirements to deployment—using modern AI-assisted engineering workflows.
-
-I regularly use Claude Code as an engineering copilot to:
-
-- Design product requirements (PRDs) and technical architectures.
-- Break complex projects into implementation tasks.
-- Generate and review production-quality code.
-- Refactor legacy applications.
-- Build REST APIs and full-stack applications.
-- Generate automated tests and improve code coverage.
-- Produce technical documentation (Architecture, ERD, API Specs, Security).
-- Debug production issues and optimize application performance.
-
-Beyond code generation, I focus on validating architecture decisions, reviewing AI output, and ensuring maintainable software rather than relying blindly on generated code.
-
-**Stack**
-
-Next.js · TypeScript · Python · FastAPI · Supabase/PostgreSQL · Google Apps Script · Cloudflare Workers · Claude Code · Gemini APIs
-
-**Working knowledge**
-
-AWS (IAM) · Docker · Kubernetes · Terraform · GitHub Actions
+<p align="center">
+  <a href="mailto:jhaniohernandez@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/jhaniohernandez/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
 
 ---
 
-# Selected Work
+## 👋 About
 
-## Maternal Risk Prediction System (Research Project)
+I design and deliver **production-oriented software** using modern AI-assisted engineering workflows. My focus: AI-powered applications, business process automation, and intelligent systems — with a growing specialization in **cloud security engineering**.
 
-Developing a predictive healthcare platform for early identification of high-risk pregnancies using Python, FastAPI and machine learning (Random Forest and Logistic Regression).
-
-Current work includes:
-
-- Clinical data validation
-- REST API development
-- Automated testing
-- ML pipeline preparation
-- Technical documentation
-- Sprint-based development
-
-The project serves as my Systems Engineering thesis and follows a complete software engineering lifecycle.
+What sets my work apart isn't just generating code — it's **validating architecture decisions, reviewing AI output, and shipping maintainable software** that people actually use in daily operations.
 
 ---
 
-## GYNFEM Clinical Management System
+## 🛠️ Tech Stack
 
-A gynecology practice managed appointments, patient records, billing and ultrasound reports entirely on paper.
+**Languages & Frameworks**
 
-I designed and built a complete clinical management platform using Google Apps Script, automating patient registration, electronic medical records, ultrasound reporting, prescriptions and payment tracking.
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-**Currently used in daily clinical operations.**
+**Data & Infra**
 
----
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-## Rescate Venezuela — Emergency Response Platform
+**AI-Assisted Engineering**
 
-Designed a Progressive Web Application for emergency response during humanitarian crises.
+![Claude](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
-Current implementation includes:
-
-- Next.js + Supabase architecture
-- International OTP authentication
-- Offline-first support
-- Background synchronization
-- Image upload
-- Cloudflare deployment
-- Private file storage
-- Fuzzy search for missing persons
-
-The project follows a complete engineering workflow with PRD, Architecture, ERD, API Specification, Security documentation and iterative development through Claude Code.
+**Working knowledge:** AWS (IAM) · Kubernetes · Terraform · GitHub Actions
 
 ---
 
-## Catalina — AI Appointment Scheduling Agent
+## 🚀 Selected Work
 
-Built a conversational AI assistant that automates appointment scheduling through WhatsApp, integrating directly with Google Calendar to manage real-time availability and reduce manual administrative work.
+### 🩺 Maternal Risk Prediction System · *Systems Engineering Thesis*
+A predictive healthcare platform for **early identification of high-risk pregnancies**, built with Python, FastAPI, and machine learning (Random Forest, Logistic Regression).
 
----
+`ML pipeline` · `Clinical data validation` · `REST API` · `Automated testing` · `Sprint-based development`
 
-# Experience
-
-## AI Solutions Developer — Brevant Consulting
-
-Designed and delivered AI-powered automation solutions for business clients by combining LLM-based workflows with software engineering practices to reduce repetitive operational tasks.
+> Full software engineering lifecycle — from clinical requirements to a deployed, testable ML service.
 
 ---
 
-## Helpdesk Analyst L1 — Teleperformance (Atos / McDonald's USA)
+### 🏥 GynFem Clinical Management System
+A gynecology practice ran appointments, records, billing, and ultrasound reports **entirely on paper**. I designed and built a complete clinical platform automating patient registration, EMR, ultrasound reporting, prescriptions, and payments.
 
-Resolved more than 80 technical incidents per day across a 300+ restaurant enterprise environment while maintaining over 95% SLA compliance.
+**✅ Currently used in daily clinical operations.**
 
-Experience includes:
-
-- Incident Management
-- Access Management
-- Identity provisioning
-- Troubleshooting
-- L2/L3 escalation
-- Enterprise support operations
-
-This experience provides the operational foundation for my transition into cloud security engineering.
+`Google Apps Script` · `EMR` · `Workflow automation`
 
 ---
 
-# Currently Learning
+### 🆘 Rescate Venezuela · Emergency Response PWA
+A Progressive Web App for emergency response during humanitarian crises — **offline-first**, with international OTP auth and background sync.
 
-- Cloud Security Engineering
-- AWS IAM
-- SIEM and log analysis
-- Threat detection
-- Secure software architecture
-- AI agent engineering
+`Next.js` · `Supabase` · `Offline-first` · `Background sync` · `Fuzzy search` · `Cloudflare`
+
+> Delivered with full engineering docs: PRD, Architecture, ERD, API Spec, and Security.
 
 ---
 
-# Education
+### 🤖 Catalina · AI Appointment Scheduling Agent
+A conversational AI assistant that **automates appointment booking through WhatsApp**, integrating directly with Google Calendar for real-time availability.
 
-**Systems Engineering (2026)**
+`LLM workflows` · `WhatsApp` · `Google Calendar API`
 
-Universidad Peruana de Ciencias Aplicadas (UPC)
+---
+
+## 💼 Experience
+
+**AI Solutions Developer** — *Brevant Consulting*
+Design and delivery of AI-powered automation for business clients, combining LLM-based workflows with solid software engineering to eliminate repetitive operational work.
+
+**Helpdesk Analyst L1** — *Teleperformance (Atos / McDonald's USA)*
+Resolved **80+ technical incidents/day** across a **300+ restaurant** enterprise environment with **95%+ SLA compliance**. Incident & access management, identity provisioning, L2/L3 escalation — the operational foundation for my move into cloud security.
+
+---
+
+## 🌱 Currently Learning
+
+`Cloud Security Engineering` · `AWS IAM` · `SIEM & log analysis` · `Threat detection` · `Secure software architecture` · `AI agent engineering`
+
+---
+
+## 🎓 Education
+
+**Systems Engineering** (2026) — Universidad Peruana de Ciencias Aplicadas (UPC)
+
+---
+
+<p align="center">
+  <i>Open to remote opportunities across LATAM, USA, and Australia.</i><br>
+  <a href="mailto:jhaniohernandez@gmail.com">📧 jhaniohernandez@gmail.com</a> ·
+  <a href="https://www.linkedin.com/in/jhaniohernandez/">💼 LinkedIn</a>
+</p>
