@@ -19,7 +19,7 @@
 
 ## 👋 About
 
-IT Support Analyst handling **25-30 incidents/day** in enterprise environments, moving into **Problem Management / ITSM**. My day-to-day: spot the incidents that keep coming back, dig into root cause instead of just closing the ticket, and push corrective/preventive actions that actually reduce recurrence.
+IT Support Analyst with hands-on experience in **Problem Management / ITSM**: handling 25-30 incidents/day in enterprise environments, spotting the incidents that keep coming back, digging into root cause instead of just closing the ticket, and pushing corrective/preventive actions that actually reduce recurrence.
 
 What sets my profile apart: I don't just triage tickets — I also **build software**. Designing APIs, application architecture, and deployed services myself means that when I investigate a problem, I understand how the components actually talk to each other, not just what the runbook says.
 
