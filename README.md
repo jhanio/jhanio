@@ -1,8 +1,8 @@
 <h1 align="center">Jhanio Hernández</h1>
 
 <p align="center">
-  <b>AI Solutions Developer · Systems Engineer</b><br>
-  I ship AI-powered software that solves real operational problems — from requirements to production.
+  <b>Incident & Problem Management · IT Support Analyst L1</b><br>
+  I turn recurring incidents into root causes, fixes, and services that don't break the same way twice.
 </p>
 
 <p align="center">
@@ -19,86 +19,79 @@
 
 ## 👋 About
 
-I design and deliver **production-oriented software** using modern AI-assisted engineering workflows. My focus: AI-powered applications, business process automation, and intelligent systems — with a growing specialization in **cloud security engineering**.
+IT Support Analyst handling **25-30 incidents/day** in enterprise environments, moving into **Problem Management / ITSM**. My day-to-day: spot the incidents that keep coming back, dig into root cause instead of just closing the ticket, and push corrective/preventive actions that actually reduce recurrence.
 
-What sets my work apart isn't just generating code — it's **validating architecture decisions, reviewing AI output, and shipping maintainable software** that people actually use in daily operations.
+What sets my profile apart: I don't just triage tickets — I also **build software**. Designing APIs, application architecture, and deployed services myself means that when I investigate a problem, I understand how the components actually talk to each other, not just what the runbook says.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Core Stack
 
-**Languages & Frameworks**
+**Problem Management**
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+`Root Cause Analysis (RCA)` · `5 Whys` · `Incident Management` · `Corrective & Preventive Actions` · `Problem Lifecycle`
+
+**Observability**
+
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+`Monitoring` · `Log Analysis` · `Metrics` · `Alerting`
+
+**Application & Integration**
+
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+`REST APIs` · `Application Architecture`
 
-**Data & Infra**
+**Cloud & Infrastructure**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
-**AI-Assisted Engineering**
+Kubernetes: hands-on in my own projects. Azure: hands-on through personal labs/courses, not yet in a production role.
 
-![Claude](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+**ITSM & Access**
 
-**Working knowledge:** AWS (IAM) · Kubernetes · Terraform · GitHub Actions
-
----
-
-## 🚀 Selected Work
-
-### 🩺 Maternal Risk Prediction System · *Systems Engineering Thesis*
-A predictive healthcare platform for **early identification of high-risk pregnancies**, built with Python, FastAPI, and machine learning (Random Forest, Logistic Regression).
-
-`ML pipeline` · `Clinical data validation` · `REST API` · `Automated testing` · `Sprint-based development`
-
-> Full software engineering lifecycle — from clinical requirements to a deployed, testable ML service.
-
----
-
-### 🏥 GynFem Clinical Management System
-A gynecology practice ran appointments, records, billing, and ultrasound reports **entirely on paper**. I designed and built a complete clinical platform automating patient registration, EMR, ultrasound reporting, prescriptions, and payments.
-
-**✅ Currently used in daily clinical operations.**
-
-`Google Apps Script` · `EMR` · `Workflow automation`
-
----
-
-### 🆘 Rescate Venezuela · Emergency Response PWA
-A Progressive Web App for emergency response during humanitarian crises — **offline-first**, with international OTP auth and background sync.
-
-`Next.js` · `Supabase` · `Offline-first` · `Background sync` · `Fuzzy search` · `Cloudflare`
-
-> Delivered with full engineering docs: PRD, Architecture, ERD, API Spec, and Security.
-
----
-
-### 🤖 Catalina · AI Appointment Scheduling Agent
-A conversational AI assistant that **automates appointment booking through WhatsApp**, integrating directly with Google Calendar for real-time availability.
-
-`LLM workflows` · `WhatsApp` · `Google Calendar API`
+`ServiceNow` · `Jira` · `SLA` · `ITIL` · `Active Directory` · `Microsoft 365 (IAM)`
 
 ---
 
 ## 💼 Experience
 
-**AI Solutions Developer** — *Brevant Consulting*
-Design and delivery of AI-powered automation for business clients, combining LLM-based workflows with solid software engineering to eliminate repetitive operational work.
+**IT Support Analyst L1 — Incident & Access Management** · *Biosalud SS Perú S.A.C.* (Mar 2025 – Present)
+Handling L1 incidents in a corporate environment. Use **Splunk** for log monitoring and diagnostics, apply **root cause analysis** to recurring authentication and access incidents, and document findings to reduce repeat tickets. Escalate to L2/L3 with structured technical write-ups.
 
-**Helpdesk Analyst L1** — *Teleperformance (Atos / McDonald's USA)*
-Resolved **80+ technical incidents/day** across a **300+ restaurant** enterprise environment with **95%+ SLA compliance**. Incident & access management, identity provisioning, L2/L3 escalation — the operational foundation for my move into cloud security.
+**Helpdesk Analyst L1** — *Teleperformance (Atos / McDonald's USA)* (Apr 2023 – Feb 2025)
+Resolved **25-30 technical incidents/day** across a 300+ restaurant enterprise environment with 95%+ SLA compliance, using **Splunk** for log monitoring on critical POS and ordering systems. Incident management and escalation under strict SLA — the operational base my move into Problem Management builds on.
+
+**AI Solutions Developer** — *Brevant Consulting*
+Design and delivery of AI-powered automation for business clients — the software-building side of my profile that feeds directly into how I read application architecture during an investigation.
+
+---
+
+## 🚀 Selected Work
+
+### 🩺 Horus — Clinical Management System (GynFem)
+A gynecology practice ran everything on paper. I designed and built a clinical platform automating patient registration, records, and payments — **in daily use today**.
+
+`Application architecture` · `REST APIs (Google Calendar API)` · `Java` · `Kubernetes` · `PRD / Architecture / ERD / API Spec docs`
+
+> Full lifecycle from requirements to a deployed service — the same architecture thinking I bring to investigating a problem ticket.
+
+### 🩺 Maternal Risk Prediction System · *Systems Engineering Thesis*
+A predictive healthcare platform for early identification of high-risk pregnancies, built with Python, FastAPI, and machine learning (Random Forest, Logistic Regression).
+
+`ML pipeline` · `Clinical data validation` · `REST API` · `Automated testing`
+
+### 🤖 Catalina · AI Appointment Scheduling Agent
+A conversational assistant that automates appointment booking through WhatsApp, integrated with the Google Calendar API for real-time availability.
+
+`LLM workflows` · `WhatsApp` · `Google Calendar API`
 
 ---
 
 ## 🌱 Currently Learning
 
-`Cloud Security Engineering` · `AWS IAM` · `SIEM & log analysis` · `Threat detection` · `Secure software architecture` · `AI agent engineering`
+`Azure` · `SIEM & log analysis` · `Cloud Security Engineering` · `AI agent engineering`
 
 ---
 
